@@ -1,7 +1,7 @@
 ﻿
 namespace Catalog.API.Products.GetProductById
 {
-    //public record GerProductByIdReques();
+    //public record GetProductByIdReques();
 
     public record GetProductByIdResponse(Product Product);
 
